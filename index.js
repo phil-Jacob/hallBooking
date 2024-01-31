@@ -24,7 +24,7 @@ let bookings = [{
 }
 ];
 let customers = [
-    { name: 'Sujin',
+    { name: 'Jack',
      bookings: [ 
         {
             customer: 'jack',
